@@ -1,0 +1,4 @@
+﻿Port:3306
+Admin: user
+Password: isba_4715
+Host: isba-dev-01.c7ccwqawamxg.us-east-2.rds.amazonaws.com
